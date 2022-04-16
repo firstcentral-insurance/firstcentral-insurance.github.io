@@ -1,0 +1,1 @@
+egainDockChat.serverURL = "https://chat.1stcentralinsurance.com/system";
